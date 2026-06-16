@@ -23,17 +23,17 @@
 
 > *"Data is the new oil — and I'm here to refine it."*
 
-I'm a **Data Science fresher** passionate about uncovering hidden patterns in data and building intelligent solutions. I love the intersection of statistics, programming, and storytelling through data.
+I am a **Data Science fresher** with a strong foundation in statistical analysis, machine learning, and data visualization. I am passionate about building data-driven solutions and continuously expanding my technical expertise.
 
 | 🎯 Focus | 📍 Location | 💼 Status | 🌐 Open To |
 |----------|------------|-----------|-----------|
 | Data Science & ML | India | 🟢 Open to Work | Full-time / Internship |
 
-- 🎓 Fresh graduate ready to make my mark in the Data Science world
-- 📊 Obsessed with turning messy data into meaningful stories
-- 🤖 Fascinated by Machine Learning & AI — the future is data-driven!
-- ☕ Fueled by curiosity (and occasionally, coffee)
-- 🌱 Currently leveling up my skills every single day
+- 🔭 Currently building projects in **Machine Learning & Data Analysis**
+- 🌱 Deepening knowledge in **Deep Learning & NLP**
+- 💬 Ask me about **Python, Data Wrangling, and Visualization**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/swetha-gaddam-8152532a5/)**
+- ⚡ Fun fact: I can spend hours exploring a dataset and call it a great day!
 
 <br/>
 
